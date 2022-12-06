@@ -1,0 +1,29 @@
+{
+    "FunctionName": "my-lambda-fun",
+    "FunctionArn": "arn:aws:lambda:us-east-2:695758167061:function:my-lambda-fun",
+    "Runtime": "nodejs18.x",
+    "Role": "arn:aws:iam::695758167061:role/lambda-ex-role",
+    "Handler": "index.handler",
+    "CodeSize": 324,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 256,
+    "LastModified": "2022-12-06T12:13:13.000+0000",
+    "CodeSha256": "b34Dusz1lerFIRxrL3aLMeo9hXqQWeKkXkWdaKwwSso=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "5a9bdb61-73db-4033-aea0-5c995c9b047e",
+    "State": "Active",
+    "LastUpdateStatus": "InProgress",
+    "LastUpdateStatusReason": "The function is being created.",
+    "LastUpdateStatusReasonCode": "Creating",
+    "PackageType": "Zip",
+    "Architectures": [
+        "x86_64"
+    ],
+    "EphemeralStorage": {
+        "Size": 512
+    }
+}
