@@ -112,3 +112,8 @@ aws lambda delete-function --function-name my-lambda-fun
 aws stepfunctions delete-state-machine --state-machine-arn arn:aws:states:us-east-2:695758167061:stateMachine:LambdaStateMachine
 ```
 
+# More Information
+
+Build on Serverless | Breaking the Monolith with Step Functions
+
+https://www.youtube.com/watch?v=CFelZoLjF50
